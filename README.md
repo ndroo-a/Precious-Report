@@ -8,7 +8,6 @@ This report is the first of four completed over the course of my Digital Forensi
 
 - Advanced understanding of report writing and practical application.
 - Proficiency in analyzing and interpreting EO1 files and harddrives.
-- 
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
